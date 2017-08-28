@@ -1,3 +1,6 @@
+This file describes the used Blacklists.
+
+
 http://iplists.firehol.org/		
 	https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset
 
