@@ -1,0 +1,3 @@
+http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt*RW_DOMBL.txt*Abuse.ch Ransomware Blacklist
+https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset*firehol_level1.netset*FireHOL Blacklist
+http://www.networksec.org/grabbho/block.txt*block.txt*ThreatExpert Malicious URLs

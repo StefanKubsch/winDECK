@@ -1,0 +1,41 @@
+Browser_ChromeHistory.sqlite:								Browser    / Google Chrome history
+Browser_FirefoxHistory.sqlite:								Browser    / Mozilla Firefox history
+Browser_IEHistory.csv:									Browser    / Internet Explorer history
+Eventlog_Application.evtx:	   							Eventlogs  / Application Eventlog
+Eventlog_Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx:	Eventlogs  / Firewall Eventlog
+Eventlog_Microsoft-Windows-PowerShell%4Operational.evtx:				Eventlogs  / PowerShell Operational Eventlog
+Eventlog_Security.evtx:									Eventlogs  / Security Eventlog
+Eventlog_System.evtx:									Eventlogs  / System Eventlog
+Filesystem_ModifiedFiles.csv:								Filesystem / Modified files - last 14 days
+Filesystem_PrefetchData.csv:								Filesystem / Prefetched files
+GPO_ResultingSet.html:									GPO        / Resulting Group Policy set
+Hardware_USBFlashDriveHistory.txt:							Hardware   / Flash drive history
+Network_ARPCache.csv:									Network    / ARP cache
+Network_DNSClientCache.csv:								Network    / DNS client cache
+Network_Hosts.txt:									Network    / Hosts
+Network_IPConfig.csv:									Network    / IP config
+Network_NetRoute.csv:									Network    / Net route
+Network_TCPConnections.csv:								Network    / TCP connections
+OS_BasicInfo.txt:									OS         / Basic Operating System information
+Process_RunningProcesses.csv:								Processes  / Running processes
+Process_StartUp.csv:									Processes  / Startup processes
+Security_AntiVirusSolution.txt:								Security   / Antivirus solution
+Security_BitlockerStatus.csv:								Security   / Bitlocker status
+Security_CredentialGuardStatus.txt:							Security   / Credential Guard status
+Security_FirewallStatus.txt:								Security   / Firewall status
+Security_LocalAdministrators.txt:							Security   / Local Administrators
+Security_LogonInformation.csv:                  					Security   / Logon information
+Security_MSAntimalwareStatus.txt:							Security   / Microsoft Antimalware status
+Security_MSAntimalwareThreatHistory.csv:						Security   / Microsoft Antimalware Threat history
+Security_SecurityIdentifier.csv:                					Security   / Security Identifier SIDs
+Security_UACStatus.txt:									Security   / User Account Control status
+Security_UEFISecureBootStatus.txt:							Security   / UEFI SecureBoot status
+Services_AllServices.csv:								Services   / All services
+Software_InstalledApplications.csv:							Software   / Installed applications
+Software_InstalledApplicationsWOW6432Node.csv:						Software   / Installed applications WOW6432Node
+Tasks_ScheduledTasks.csv:								Tasks      / Scheduled tasks
+Updates_InstalledUpdates.csv:								Updates    / Installed updates
+
+
+
+

@@ -1,0 +1,2 @@
+pre-check for usb stick
+check all volumes for changed files

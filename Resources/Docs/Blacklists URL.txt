@@ -1,0 +1,8 @@
+http://iplists.firehol.org/		
+	https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.netset
+
+http://ransomwaretracker.abuse.ch/blocklist/
+	http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+
+https://isc.sans.edu/suspicious_domains.html
+	http://www.networksec.org/grabbho/block.txt
