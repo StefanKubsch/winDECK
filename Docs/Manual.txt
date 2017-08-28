@@ -1,0 +1,3 @@
+- Copy all files to folder of your choice
+- for testing purposes run "RUN_winDECK_Step2_CollectData.cmd" on your computer to collect data
+- run "RUN_winDECK_Step3_AnalyseData.cmd" to analyze collected data
