@@ -33,10 +33,26 @@ Caution!
 You should not run the tools on a compromised computer without making an image of the whole system before to prevent loss of important data or even evidence. Also, it´s really
 important not changing anything on the compromised system.
 
+Used 3rd party software
+=======================
+
+I´m using several tools to display data which are included in the repository. Here we go:
+
+- 	NirSoft FullEventLogView
+	http://www.nirsoft.net/utils/full_event_log_view.html
+
+-	DB Browser for SQLite
+	http://sqlitebrowser.org/
+	
+- 	Offline HTML Viewer
+	(C) 2002-2004 Roman Pivovarov
+	(Sorry, no link. Found it in the web and the URL seems to be dead!).
+
 Installation
 ============
 
-Installation is not needed. Just copy all files from the GitHub-Repository to a folder of your choice and you´re ready to go.
+Installation is not needed. Just copy all files from the GitHub-Repository to a folder of your choice and you´re ready to go. Hint: Don´t use a folder in a cloud like OneDrive since 
+the exported Eventlogs problably will make problems due to their naming.
 
 How to use
 ==========
@@ -130,5 +146,3 @@ What kind of informations are collected ?
 	- Internet Explorer history
 	- Google Chrome history
 	- Mozilla Firefox history
-	
-
