@@ -1,5 +1,3 @@
-Import-Module DefenderImport-Module DefenderImport-Module SecureBoot# winDECK - Windows Digital Evidence Collection Kit
-#
 # winDECK_Module_CreateUSBStick.ps1
 #
 # Create USB Stick
@@ -18,8 +16,8 @@ Set-StrictMode -Version "Latest"
 $localScriptRoot = $PSScriptRoot
 
 #region Include Functions Library
-. "$PSScriptRoot\Resources\Libs\General.ps1"
-. "$PSScriptRoot\Resources\Libs\CUS.ps1"
+. "$localScriptRoot\Resources\Libs\General.ps1"
+. "$localScriptRoot\Resources\Libs\CUS.ps1"
 #endregion
 
 #region Initialize environment
