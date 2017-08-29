@@ -5,6 +5,7 @@
   <Folders>
     <Folder>Resources\Libs</Folder>
     <Folder>Resources</Folder>
+    <Folder>Docs</Folder>
   </Folders>
   <Files>
     <File Build="1">.gitignore</File>
@@ -15,6 +16,8 @@
     <File Build="2" Shared="False">Resources\Libs\CDM.ps1</File>
     <File Build="2" Shared="False">Resources\Libs\CUS.ps1</File>
     <File Build="2" Shared="False">Resources\Libs\General.ps1</File>
+    <File Build="2">README.md</File>
+    <File Build="2">Docs\Blacklists URL.txt</File>
   </Files>
   <DeployMode>Project</DeployMode>
   <PrimaryFile>

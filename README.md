@@ -18,13 +18,44 @@ The toolset contains different modules for easy use :
 - Collect Data Module
 - Analyse Data Module
 
+Installation
+============
+
+Installation is not needed. Just copy all files from the GitHub-Repository to a folder of your choice and you´re ready to go.
+
+How to use
+==========
+
 Each module can be individually run.
 
-System Requirement
-==================
+If you want to use winDECK on a differnet PC than yours, use the "Create USB Stick" module to prepare an USB stick properly. It will be cleared, needed files are copied and write-protected.
+Then use the stick in a Windows 10 PC of your choice. Just run the "Collect Data" module and wait.
+
+Final step to analyse the collected data: Copy the result folder from stick to you winDECK folder and run the "Analyse Data" module.
+
+Please use the corresponding CMD-Batchfiles to start the modules. They´ll provide you with an elevated token for administrative rights, so you don´t have to hassle with 
+Powershell-Console etc.
+
+The tools are pretty self-explanatory, you´ll be guided and informed over each step taken. Possible errors are - hopefully - recognized and handled.
+
+The "Analyse Data" module features a graphical (Windows Forms) GUI for easy use and a clear visualization of the gathered data.
+
+System Requirements
+===================
 
 - Minimum Microsoft Windows 10
 - Minimum PowerShell 5.0 (newer versions supported)
+
+Security Features
+=================
+
+To ensure collected data is not tampered/changed I implemented these features:
+
+- Generates SHA256 checksums for each file during data collection and proofs them when running "Analyse Data" module
+- Write-Protection of every generated file
+
+Once the result-files are written during data collection, every change in them is recognized and will lead to a full stop of the "Analyse Data" module, plus you´ll be informed
+which file lead to the stop.
 
 What kind of informations are collected ?
 =========================================
@@ -85,8 +116,4 @@ What kind of informations are collected ?
 	- Google Chrome history
 	- Mozilla Firefox history
 	
-Security Features
-=================
 
-- Generates SHA256 checksums after data collection and proofs them when running Analyse Data Module
-- Write-Protection of every generated file
