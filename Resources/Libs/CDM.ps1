@@ -4,11 +4,13 @@
 #
 # Collect Data Module Library
 #
-# v0.8 Beta
+# v1.0
 #
-# 21.08.2017
+# 29.08.2017
 #
 # (C) Stefan Kubsch
+#
+# https://github.com/StefanKubsch/winDECK
 #
 
 Set-StrictMode -Version "Latest"
@@ -19,7 +21,7 @@ $CDMMinPSVersion               = 5 # Minimum PowerShell version for Collect Data
 $CDMResultsFolder              = $localScriptRoot+"\winDECK_Results_"+$Hostname
 $CDMOutputDrive                = $localScriptRoot.Remove(1,$localScriptRoot.Length-1)
 $CDMSplashScreen               = @("****************************************************************",
-                                   "* winDECK - Windows Digital Evidence Collection Kit v0.8 Beta  *",
+                                   "* winDECK - Windows Digital Evidence Collection Kit v1.0       *",
                                    "*                                                              *",
                                    "* Collect Data Module                                          *",
                                    "*                                                              *",

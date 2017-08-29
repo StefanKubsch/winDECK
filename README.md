@@ -10,7 +10,7 @@ Quick Introduction
 
 winDECK is a set of tools made for data collection and analysis in case of a digital evidence.
 
-Status is still pre-release (currently Beta) and under development.
+Status is still under development, but fully functional.
 
 The toolset contains different modules for easy use :
 

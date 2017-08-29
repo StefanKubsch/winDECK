@@ -4,11 +4,13 @@
 #
 # Analyse Data Module
 #
-# v0.8 Beta
+# v1.0
 #
-# 21.08.2017
+# 29.08.2017
 #
 # (C) Stefan Kubsch
+#
+# https://github.com/StefanKubsch/winDECK
 #
 
 Set-StrictMode -Version "Latest"
@@ -31,8 +33,8 @@ CheckForExistingResultsFolders
 
 #region Security tasks
 Header_Security
-#CheckSHA256Hashes
-#CheckReadOnly
+CheckSHA256Hashes
+CheckReadOnly
 #endregion
 
 #region Analyse Data

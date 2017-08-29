@@ -1,0 +1,22 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.psxml;*.psf;*.pss;*.xml">
+  <Version>2.0</Version>
+  <FileID>3da62ac7-8e24-48b8-90b4-7a3d59a80e6d</FileID>
+  <ProjectType>2</ProjectType>
+  <Folders>
+    <Folder>Resources\Libs</Folder>
+    <Folder>Resources</Folder>
+  </Folders>
+  <Files>
+    <File Build="1">.gitignore</File>
+    <File Build="2" Shared="False">winDECK_Module_AnalyseData.ps1</File>
+    <File Build="2" Shared="False">winDECK_Module_CollectData.ps1</File>
+    <File Build="2" Shared="False">winDECK_Module_CreateUSBStick.ps1</File>
+    <File Build="2" Shared="False">Resources\Libs\ADM.ps1</File>
+    <File Build="2" Shared="False">Resources\Libs\CDM.ps1</File>
+    <File Build="2" Shared="False">Resources\Libs\CUS.ps1</File>
+    <File Build="2" Shared="False">Resources\Libs\General.ps1</File>
+  </Files>
+  <DeployMode>Project</DeployMode>
+  <PrimaryFile>
+  </PrimaryFile>
+</Project>

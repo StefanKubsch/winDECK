@@ -4,11 +4,13 @@
 #
 # Create USB stick Module Library
 #
-# v0.8 Beta
+# v1.0
 #
-# 21.08.2017
+# 29.08.2017
 #
 # (C) Stefan Kubsch
+#
+# https://github.com/StefanKubsch/winDECK
 #
 
 Set-StrictMode -Version "Latest"
@@ -17,7 +19,7 @@ Set-StrictMode -Version "Latest"
 
 $CUSMinPSVersion               = 5 # Minimum PowerShell version for Create USB stick Module
 $CUSSplashScreen               = @("****************************************************************",
-                                   "* winDECK - Windows Digital Evidence Collection Kit v0.8 Beta  *",
+                                   "* winDECK - Windows Digital Evidence Collection Kit v1.0       *",
                                    "*                                                              *",
                                    "* Create USB Stick Module                                      *",
                                    "*                                                              *",

@@ -4,11 +4,13 @@
 #
 # Analyse Data Module Library
 #
-# v0.8 Beta
+# v1.0
 #
-# 21.08.2017
+# 29.08.2017
 #
 # (C) Stefan Kubsch
+#
+# https://github.com/StefanKubsch/winDECK
 #
 
 Set-StrictMode -Version "Latest"
@@ -45,7 +47,7 @@ $UpdateBLWindowHeight   = 200
 $ProgressWindowWidth    = 450
 $ProgressWindowHeight   = 200
 $ADMSplashScreen        = @("****************************************************************",
-                            "* winDECK - Windows Digital Evidence Collection Kit v0.8 Beta  *",
+                            "* winDECK - Windows Digital Evidence Collection Kit v1.0       *",
                             "*                                                              *",
                             "* Analyse Data Module                                          *",
                             "*                                                              *",
@@ -56,10 +58,11 @@ $AboutTextContent       = @(" ",
 						    " ",
 							"winDECK - Windows Digital Evidence Collection Kit",
 							" ",
-							"                                    v0.8 Beta",
+							"                                        v1.0",
 	                        " ",
 							"         (C)opyright 2016, 2017 by Stefan Kubsch",
 							" ",
+							"       https://github.com/StefanKubsch/winDECK",
 							" ",
 							"                                     ¯\_(シ)_/¯")
 $NoDataTextContent      = "No data was found..."
