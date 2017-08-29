@@ -18,6 +18,21 @@ The toolset contains different modules for easy use :
 - Collect Data Module
 - Analyse Data Module
 
+Key benefits
+============
+
+- easy to use
+- fast and complete data collection, no manual work needed
+- "Analyse Data" module easily extendable by adding rulesets to a simple textfile
+- coded in 100% Powershell - transparent in function and easy to code
+- solid and secure
+
+Caution! 
+========
+
+You should not run the tools on a compromised computer without making an image of the whole system before to prevent loss of important data or even evidence. Also, it´s really
+important not changing anything on the compromised system.
+
 Installation
 ============
 
