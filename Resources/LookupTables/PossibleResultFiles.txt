@@ -1,40 +1,63 @@
-Browser_ChromeHistory.sqlite:								Browser    / Google Chrome history
-Browser_FirefoxHistory.sqlite:								Browser    / Mozilla Firefox history
-Browser_IEHistory.csv:									Browser    / Internet Explorer history
-Eventlog_Application.evtx:	   							Eventlogs  / Application Eventlog
+Browser_ChromeHistory.sqlite:														Browser    / Google Chrome history
+Browser_FirefoxHistory.sqlite:														Browser    / Mozilla Firefox history
+Browser_IEHistory.csv:																Browser    / Internet Explorer history
+Eventlog_Application.evtx:	   														Eventlogs  / Application Eventlog
 Eventlog_Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx:	Eventlogs  / Firewall Eventlog
-Eventlog_Microsoft-Windows-PowerShell%4Operational.evtx:				Eventlogs  / PowerShell Operational Eventlog
-Eventlog_Security.evtx:									Eventlogs  / Security Eventlog
-Eventlog_System.evtx:									Eventlogs  / System Eventlog
-Filesystem_ModifiedFiles.csv:								Filesystem / Modified files - last 14 days
-Filesystem_PrefetchData.csv:								Filesystem / Prefetched files
-GPO_ResultingSet.html:									GPO        / Resulting Group Policy set
-Hardware_USBFlashDriveHistory.txt:							Hardware   / Flash drive history
-Network_ARPCache.csv:									Network    / ARP cache
-Network_DNSClientCache.csv:								Network    / DNS client cache
-Network_Hosts.txt:									Network    / Hosts
-Network_IPConfig.csv:									Network    / IP config
-Network_NetRoute.csv:									Network    / Net route
-Network_TCPConnections.csv:								Network    / TCP connections
-OS_BasicInfo.txt:									OS         / Basic Operating System information
-Process_RunningProcesses.csv:								Processes  / Running processes
-Process_StartUp.csv:									Processes  / Startup processes
-Security_AntiVirusSolution.txt:								Security   / Antivirus solution
-Security_BitlockerStatus.csv:								Security   / Bitlocker status
-Security_CredentialGuardStatus.txt:							Security   / Credential Guard status
-Security_FirewallStatus.txt:								Security   / Firewall status
-Security_LocalAdministrators.txt:							Security   / Local Administrators
-Security_LogonInformation.csv:                  					Security   / Logon information
-Security_MSAntimalwareStatus.txt:							Security   / Microsoft Antimalware status
-Security_MSAntimalwareThreatHistory.csv:						Security   / Microsoft Antimalware Threat history
-Security_SecurityIdentifier.csv:                					Security   / Security Identifier SIDs
-Security_UACStatus.txt:									Security   / User Account Control status
-Security_UEFISecureBootStatus.txt:							Security   / UEFI SecureBoot status
-Services_AllServices.csv:								Services   / All services
-Software_InstalledApplications.csv:							Software   / Installed applications
-Software_InstalledApplicationsWOW6432Node.csv:						Software   / Installed applications WOW6432Node
-Tasks_ScheduledTasks.csv:								Tasks      / Scheduled tasks
-Updates_InstalledUpdates.csv:								Updates    / Installed updates
+Eventlog_Microsoft-Windows-PowerShell%4Operational.evtx:							Eventlogs  / PowerShell Operational Eventlog
+Eventlog_Security.evtx:																Eventlogs  / Security Eventlog
+Eventlog_System.evtx:																Eventlogs  / System Eventlog
+Filesystem_ModifiedFiles_C.csv:														Filesystem / Modified files drive C last 14 days
+Filesystem_ModifiedFiles_D.csv:														Filesystem / Modified files drive D last 14 days
+Filesystem_ModifiedFiles_E.csv:														Filesystem / Modified files drive E last 14 days
+Filesystem_ModifiedFiles_F.csv:														Filesystem / Modified files drive F last 14 days
+Filesystem_ModifiedFiles_G.csv:														Filesystem / Modified files drive G last 14 days
+Filesystem_ModifiedFiles_H.csv:														Filesystem / Modified files drive H last 14 days
+Filesystem_ModifiedFiles_I.csv:														Filesystem / Modified files drive I last 14 days
+Filesystem_ModifiedFiles_J.csv:														Filesystem / Modified files drive J last 14 days
+Filesystem_ModifiedFiles_K.csv:														Filesystem / Modified files drive K last 14 days
+Filesystem_ModifiedFiles_L.csv:														Filesystem / Modified files drive L last 14 days
+Filesystem_ModifiedFiles_M.csv:														Filesystem / Modified files drive M last 14 days
+Filesystem_ModifiedFiles_N.csv:														Filesystem / Modified files drive N last 14 days
+Filesystem_ModifiedFiles_O.csv:														Filesystem / Modified files drive O last 14 days
+Filesystem_ModifiedFiles_P.csv:														Filesystem / Modified files drive P last 14 days
+Filesystem_ModifiedFiles_Q.csv:														Filesystem / Modified files drive Q last 14 days
+Filesystem_ModifiedFiles_R.csv:														Filesystem / Modified files drive R last 14 days
+Filesystem_ModifiedFiles_S.csv:														Filesystem / Modified files drive S last 14 days
+Filesystem_ModifiedFiles_T.csv:														Filesystem / Modified files drive T last 14 days
+Filesystem_ModifiedFiles_U.csv:														Filesystem / Modified files drive U last 14 days
+Filesystem_ModifiedFiles_V.csv:														Filesystem / Modified files drive V last 14 days
+Filesystem_ModifiedFiles_W.csv:														Filesystem / Modified files drive W last 14 days
+Filesystem_ModifiedFiles_X.csv:														Filesystem / Modified files drive X last 14 days
+Filesystem_ModifiedFiles_Y.csv:														Filesystem / Modified files drive Y last 14 days
+Filesystem_ModifiedFiles_Z.csv:														Filesystem / Modified files drive Z last 14 days
+Filesystem_PrefetchData.csv:														Filesystem / Prefetched files
+GPO_ResultingSet.html:																GPO        / Resulting Group Policy set
+Hardware_USBFlashDriveHistory.txt:													Hardware   / Flash drive history
+Network_ARPCache.csv:																Network    / ARP cache
+Network_DNSClientCache.csv:															Network    / DNS client cache
+Network_Hosts.txt:																	Network    / Hosts
+Network_IPConfig.csv:																Network    / IP config
+Network_NetRoute.csv:																Network    / Net route
+Network_TCPConnections.csv:															Network    / TCP connections
+OS_BasicInfo.txt:																	OS         / Basic Operating System information
+Process_RunningProcesses.csv:														Processes  / Running processes
+Process_StartUp.csv:																Processes  / Startup processes
+Security_AntiVirusSolution.txt:														Security   / Antivirus solution
+Security_BitlockerStatus.csv:														Security   / Bitlocker status
+Security_CredentialGuardStatus.txt:													Security   / Credential Guard status
+Security_FirewallStatus.txt:														Security   / Firewall status
+Security_LocalAdministrators.txt:													Security   / Local Administrators
+Security_LogonInformation.csv:                  									Security   / Logon information
+Security_MSAntimalwareStatus.txt:													Security   / Microsoft Antimalware status
+Security_MSAntimalwareThreatHistory.csv:											Security   / Microsoft Antimalware Threat history
+Security_SecurityIdentifier.csv:                									Security   / Security Identifier SIDs
+Security_UACStatus.txt:																Security   / User Account Control status
+Security_UEFISecureBootStatus.txt:													Security   / UEFI SecureBoot status
+Services_AllServices.csv:															Services   / All services
+Software_InstalledApplications.csv:													Software   / Installed applications
+Software_InstalledApplicationsWOW6432Node.csv:										Software   / Installed applications WOW6432Node
+Tasks_ScheduledTasks.csv:															Tasks      / Scheduled tasks
+Updates_InstalledUpdates.csv:														Updates    / Installed updates
 
 
 

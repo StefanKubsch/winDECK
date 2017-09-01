@@ -6,7 +6,7 @@
 #
 # v1.0
 #
-# 29.08.2017
+# 01.09.2017
 #
 # (C) Stefan Kubsch
 #
@@ -48,8 +48,14 @@ Function CDM_CheckDomainJoin
 Function CDM_GatheringModifiedFiles
 {
     Write-Host "Gathering modified files (during last 14 days)..." -NoNewline
-    Get-ChildItem -Recurse C:\ -ErrorAction SilentlyContinue | Where-Object LastWriteTime -gt (Get-Date).AddDays(-14) | Export-Csv -Encoding $Encoding Filesystem_ModifiedFiles.csv
-	SecureFile Filesystem_ModifiedFiles.csv
+    $Partitions = Get-Partition | Where-Object DriveLetter
+	ForEach ($Partition in $Partitions)
+	{
+		$DriveLetter = $Partition.DriveLetter+":\"
+		$FileName = "Filesystem_ModifiedFiles_" + $Partition.Driveletter + ".csv"
+		Get-ChildItem -Recurse -Path $DriveLetter -ErrorAction SilentlyContinue | Where-Object LastWriteTime -gt (Get-Date).AddDays(-14) | Export-Csv -Encoding $Encoding $FileName
+		SecureFile $FileName
+	}
 	Write-Host "Done."
 }
 

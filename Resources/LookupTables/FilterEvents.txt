@@ -1,12 +1,12 @@
-CheckAccountLockouts;EVTX#Security#Microsoft-Windows-Security-Auditing#4740:												Security / Check for account lockouts
-CheckSecurityLogClearing;EVTX#Security#Microsoft-Windows-Eventlog#1102:													Security / Check if Security eventlog was cleared
-CheckDNSClientCacheBlacklist;BLACKLIST#Network_DNSClientCache.csv#Dummy#Entry:                           								Security / Check DNS client cache against blacklists
-CryptographicOperations;EVTX#Security#Microsoft-Windows-Security-Auditing#5061:												Security / Cryptographic operations				
-EMETASRMitigations;EVTX#Application#EMET#1:			                        										Security / EMET ASR mitigations
-EMETEAFMitigations;EVTX#Application#EMET#2:			                        										Security / EMET EAF mitigations
-FailedLogins;EVTX#Security#Microsoft-Windows-Security-Auditing#4625:													Security / Failed logins
-RecentlyCreatedFirewallRules;EVTX#Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall#Microsoft-Windows-Windows Firewall With Advanced Security#2004: 	Services / Recently created firewall rules
-RecentlyDeletedFirewallRules;EVTX#Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall#Microsoft-Windows-Windows Firewall With Advanced Security#2006: 	Services / Recently deleted firewall rules
-RecentlyCreatedProcesses;EVTX#Security#Microsoft-Windows-Security-Auditing#4688:      											Services / Recently created processes
-RecentlyCreatedTasks;EVTX#Security#Microsoft-Windows-Security-Auditing#4698:        											Services / Recently created scheduled tasks
-RecentlyInstalledServices;EVTX#Security#Microsoft-Windows-Security-Auditing#4697:      											Services / Recently installed services
+CheckAccountLockouts;EVTX#Security#Microsoft-Windows-Security-Auditing#4740:																								Security / Check for account lockouts
+CheckSecurityLogClearing;EVTX#Security#Microsoft-Windows-Eventlog#1102:																										Security / Check if Security eventlog was cleared
+CheckDNSClientCacheBlacklist;BLACKLIST#Network_DNSClientCache.csv#Dummy#Entry:                           																	Security / Check DNS client cache against blacklists
+CryptographicOperations;EVTX#Security#Microsoft-Windows-Security-Auditing#5061:																								Security / Cryptographic operations				
+EMETASRMitigations;EVTX#Application#EMET#1:			                        																								Security / EMET ASR mitigations
+EMETEAFMitigations;EVTX#Application#EMET#2:			                        																								Security / EMET EAF mitigations
+FailedLogins;EVTX#Security#Microsoft-Windows-Security-Auditing#4625:																										Security / Failed logins
+RecentlyCreatedFirewallRules;EVTX#Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall#Microsoft-Windows-Windows Firewall With Advanced Security#2004: 		Services / Recently created firewall rules
+RecentlyDeletedFirewallRules;EVTX#Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall#Microsoft-Windows-Windows Firewall With Advanced Security#2006: 		Services / Recently deleted firewall rules
+RecentlyCreatedProcesses;EVTX#Security#Microsoft-Windows-Security-Auditing#4688:      																						Services / Recently created processes
+RecentlyCreatedTasks;EVTX#Security#Microsoft-Windows-Security-Auditing#4698:        																						Services / Recently created scheduled tasks
+RecentlyInstalledServices;EVTX#Security#Microsoft-Windows-Security-Auditing#4697:      																						Services / Recently installed services

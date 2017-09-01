@@ -6,6 +6,7 @@
     <Folder>Resources\Libs</Folder>
     <Folder>Resources</Folder>
     <Folder>Docs</Folder>
+    <Folder>Resources\LookupTables</Folder>
   </Folders>
   <Files>
     <File Build="1">.gitignore</File>
@@ -24,6 +25,9 @@
     <File Build="2">RUN_winDECK_Step2_CollectData.cmd</File>
     <File Build="2">RUN_winDECK_Step3_AnalyseData.cmd</File>
     <File Build="2">winDECK.psprojs</File>
+    <File Build="2">Resources\LookupTables\Blacklists.txt</File>
+    <File Build="2">Resources\LookupTables\FilterEvents.txt</File>
+    <File Build="2">Resources\LookupTables\PossibleResultFiles.txt</File>
   </Files>
   <DeployMode>Project</DeployMode>
   <PrimaryFile>
