@@ -18,6 +18,12 @@
     <File Build="2" Shared="False">Resources\Libs\General.ps1</File>
     <File Build="2">README.md</File>
     <File Build="2">Docs\Blacklists URL.txt</File>
+    <File Build="2">.gitattributes</File>
+    <File Build="2">LICENSE</File>
+    <File Build="2">RUN_winDECK_Step1_CreateUSBStick.cmd</File>
+    <File Build="2">RUN_winDECK_Step2_CollectData.cmd</File>
+    <File Build="2">RUN_winDECK_Step3_AnalyseData.cmd</File>
+    <File Build="2">winDECK.psprojs</File>
   </Files>
   <DeployMode>Project</DeployMode>
   <PrimaryFile>
