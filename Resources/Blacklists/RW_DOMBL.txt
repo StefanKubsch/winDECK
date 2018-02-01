@@ -1,6 +1,6 @@
 ##########################################################################
 # Ransomware Domain Blocklist (RW_DOMBL)                                 #
-# Generated on 2017-08-21 13:10:02 UTC                                   #
+# Generated on 2018-02-01 12:50:02 UTC                                   #
 #                                                                        #
 # For questions please refer to:                                         #
 # https://ransomwaretracker.abuse.ch/blocklist/                          #
@@ -568,6 +568,7 @@ abvtqhwodwjmi.work
 acbstypdrijslr.ru
 accemfsqovkd.pw
 acjhwpdjhlhbncf.click
+aechjic.pw
 ahsqbeospcdrngfv.info
 ahuqfrqk54v3vnzj.1vcxfn.bid
 ahuqfrqk54v3vnzj.45yu0p.bid
@@ -601,6 +602,7 @@ ahuqfrqk54v3vnzj.zn90h4.bid
 ampjsppmftmfdblpt.info
 anbqjdoyw6wkmpeu.oldtrees.at
 applesnoutsthings.bid
+aqmip.fr
 arddxjkwrp.xyz
 as3ws.fopyirr.com
 avsxrcoq2q5fgrw2.13inb1.top
@@ -738,6 +740,7 @@ de2nuvwegoo32oqv.tortodorf.li
 de2nuvwegoo32oqv.torworks.li
 dkoipg.pw
 dltvwp.it
+dmwajvm.fr
 dolfexalto.com
 domainstop.top
 dqtfhkgskushlum.org
@@ -752,6 +755,7 @@ egovrxvuspxck.be
 eoalsoub.pw
 eqtrtdavtnr.pw
 euduudaehipk.pw
+exnqhgk.xyz
 eypdxikxsufj.pw
 eywlmqugxx.info
 f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at
@@ -878,6 +882,7 @@ gfwncoyhbdvggns.pw
 gguaxufrt.pw
 gitybdjgbxd.nl
 glhxgchhfemcjgr.pw
+gnsquwmgukkpgpt.pw
 govementruystd.top
 gsebqsi.ru
 gsmdqrmqddqtuv.xyz
@@ -1006,6 +1011,7 @@ i01001.dgn.vn
 i3ezlvkoi7fwyood.onion.to
 i3ezlvkoi7fwyood.tor2web.org
 i5ndw.titlecorta.at
+ibjgnqsthdyp.pw
 ibtfqftkgi.pw
 ifohvkxmyp.biz
 igoodsnd.wang
@@ -1018,6 +1024,7 @@ jfmiondv.xyz
 jghbktqepe.pw
 jhdgh.club
 jhomitevd2abj3fk.onion.to
+juhacjacjckclqf.pw
 jxqdry.ru
 jymhmkdaxfbl.click
 k234s.ascotsprue.com
@@ -1067,8 +1074,12 @@ lollyoff.info
 lookingpersonals.top
 lpholfnvwbukqwye.onion.cab
 lpholfnvwbukqwye.onion.to
+lrmficvqs.pw
 ltpwqva.xyz
 luvenxj.uk
+lvanwwbyabcfevyi.pw
+lyrnvane.pw
+macooptwafkwchtpo.pw
 mmhmtea.pw
 mphtadhci5mrdlju.onion.to
 mphtadhci5mrdlju.tor2web.org
@@ -1099,12 +1110,25 @@ ojmekzw4mujvqeju.dreamtest.at
 ojmekzw4mujvqeju.fineboy.at
 ojmekzw4mujvqeju.minitili.at
 omeaswslhgdw.xyz
+oqwygprskqv65j72.12kb9j.top
 oqwygprskqv65j72.13gpqd.top
 oqwygprskqv65j72.13rdvu.top
 oqwygprskqv65j72.14jqyo.top
+oqwygprskqv65j72.17q8f6.top
+oqwygprskqv65j72.1aj1bb.top
+oqwygprskqv65j72.1d88b8.top
+oqwygprskqv65j72.1dofqx.top
+oqwygprskqv65j72.1fdlhn.top
 oqwygprskqv65j72.1fs9pz.top
+oqwygprskqv65j72.1gam57.top
+oqwygprskqv65j72.1gqj8x.top
 oqwygprskqv65j72.1hbdbx.top
+oqwygprskqv65j72.1j1x2b.top
+oqwygprskqv65j72.1jquw7.top
 oqwygprskqv65j72.1kh9ct.top
+oqwygprskqv65j72.1mudaw.top
+oqwygprskqv65j72.1nzpby.top
+ozfin.ru
 p27dokhpz2n7nvgr.12a63k.top
 p27dokhpz2n7nvgr.12c8ff.top
 p27dokhpz2n7nvgr.12gzrv.top
@@ -1351,6 +1375,7 @@ qcwbrevxrotoepsp.pw
 qdesslfdcmd.pw
 qdvkdyvrtpjc.pw
 qfjhpgbefuhenjp7.1225wj.top
+qfjhpgbefuhenjp7.12efwa.top
 qfjhpgbefuhenjp7.12f53x.top
 qfjhpgbefuhenjp7.12u5fl.top
 qfjhpgbefuhenjp7.13iuvw.top
@@ -1359,6 +1384,7 @@ qfjhpgbefuhenjp7.158ugp.top
 qfjhpgbefuhenjp7.16g9ub.top
 qfjhpgbefuhenjp7.17cwdi.top
 qfjhpgbefuhenjp7.17ipn9.top
+qfjhpgbefuhenjp7.17xukb.top
 qfjhpgbefuhenjp7.18dwag.top
 qfjhpgbefuhenjp7.18ggbf.top
 qfjhpgbefuhenjp7.18rkju.top
@@ -1372,7 +1398,10 @@ qfjhpgbefuhenjp7.1jfjhb.top
 qfjhpgbefuhenjp7.1jrkyn.top
 qfjhpgbefuhenjp7.1mkwry.top
 qfjhpgbefuhenjp7.1mnsg6.top
+qfuxosx.eu
+qlwnvdjwro.pw
 qqonof.info
+qqtphtlhny.pw
 qsbfwgtedexirbyoq.pw
 qvdgqayo.pw
 rastypasty34.top
@@ -1385,6 +1414,7 @@ rkiywansamtu.top
 rolerxunitywsto.top
 rootaleyz.top
 rowerpovertort.top
+rqfsctpgpuani.pw
 rrcspgfghsjnklts.pw
 rzss2zfue73dfvmj.onlinerpgame.ch
 rzss2zfue73dfvmj.truewargame.ch
@@ -1396,7 +1426,9 @@ sgrnhwyqxdk.pw
 sondr5344ygfweyjbfkw4fhsefv.heliofetch.at
 sonicfopase.top
 sqrgvbgfyya.org
+sqsigig.pw
 ssvylrn.pw
+stevnxwq.pw
 stgg5jv6mqiibmax.toradmin.li
 stgg5jv6mqiibmax.toranimals.li
 stgg5jv6mqiibmax.torbrouke.li
@@ -1635,10 +1667,13 @@ unocl45trpuoefft.zgheyh.bid
 unocl45trpuoefft.zjems2.bid
 unocl45trpuoefft.zn9cme.bid
 urulvtffwoq.xyz
+uuwflbmjmi.eu
 uvcmlfca.biz
 uxvvm.us
+uxwavkmttywsuynt.pw
 vcabbvhrqhot.pw
 vewrb.italisumo.at
+vpuroeit.pw
 vrvis6ndra5jeggj.livegaming.ch
 vrvis6ndra5jeggj.livewargaming.ch
 vrvis6ndra5jeggj.onlinebattlefield.ch
@@ -1646,6 +1681,7 @@ vrympoqs5ra34nfo.bigbird.at
 vrympoqs5ra34nfo.bigclear.at
 vrympoqs5ra34nfo.smartbus.at
 vrympoqs5ra34nfo.torhelper.pl
+vujqbcditgsqxe.fr
 vyohacxzoue32vvk.0ayn1s.top
 vyohacxzoue32vvk.0ot7em.bid
 vyohacxzoue32vvk.0vtwzy.top
@@ -1799,6 +1835,7 @@ wjtqjleommc4z46i.z97f9v.bid
 wjtqjleommc4z46i.zclhx9.bid
 wor4d.slewirk.at
 wpvvusso.xyz
+wqxvsxppjivs.pw
 wrubyjtvqhxaqkh.pw
 wtxvmsikbmtbq.pw
 wvltrlrnf.xyz
@@ -1852,10 +1889,12 @@ xvchcbeqxkd.pw
 xyhhuxa.be
 y4bxj.adozeuds.com
 yavmxpiqfwmubk.pw
+yaynawvtuqcarjwc.pw
 ycvcjbhgkmsiyhdd.info
 yofkhfskdyiqo.biz
 ytcijiooxdtlbevrh.info
 ytrest84y5i456hghadefdsd.pontogrot.com
+yuertao.pw
 yuysikankhqvdwdv.xyz
 ywjgjvpuyitnbiw.info
 yyre45dbvn2nhbefbmh.begumvelic.at
@@ -1863,4 +1902,4 @@ zjfq4lnfbs7pncr5.onion.to
 zjfq4lnfbs7pncr5.tor2web.org
 ztuw5bvuuapzdfya.klimbim.pl
 zutzt67dcxr6mxcn.onion.to
-# 1858 entries
+# 1897 entries
