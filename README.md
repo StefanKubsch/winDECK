@@ -10,7 +10,7 @@ Quick Introduction
 
 winDECK is a set of tools made for data collection and analysis in case of a digital evidence.
 
-Status is still under development, but fully functional.
+WinDeck is "public domain" - you can do what you want with it!
 
 The toolset contains different modules for easy use :
 
@@ -30,8 +30,7 @@ Key benefits
 Caution! 
 ========
 
-You should not run the tools on a compromised computer without making an image of the whole system before to prevent loss of important data or even evidence. Also, it´s really
-important not changing anything on the compromised system.
+You should not run the tools on a compromised computer without making an image of the whole system before to prevent loss of important data or even evidence. Also, it´s really important not changing anything on the compromised system.
 
 Used 3rd party software
 =======================
@@ -51,8 +50,7 @@ I´m using several tools to display data which are included in the repository. H
 Installation
 ============
 
-Installation is not needed. Just copy all files from the GitHub-Repository to a folder of your choice and you´re ready to go. Hint: Don´t use a folder in a cloud like OneDrive since 
-the exported Eventlogs problably will make problems due to their naming.
+Installation is not needed. Just copy all files from the GitHub-Repository to a folder of your choice and you´re ready to go. Hint: Don´t use a folder in a cloud like OneDrive since the exported Eventlogs problably will make problems due to their naming.
 
 How to use
 ==========
@@ -85,8 +83,7 @@ To ensure collected data is not tampered/changed I implemented these features:
 - Generates SHA256 checksums for each file during data collection and proofs them when running "Analyse Data" module
 - Write-Protection of every generated file
 
-Once the result-files are written during data collection, every change in them is recognized and will lead to a full stop of the "Analyse Data" module, plus you´ll be informed
-which file lead to the stop.
+Once the result-files are written during data collection, every change in them is recognized and will lead to a full stop of the "Analyse Data" module, plus you´ll be informed which file lead to the stop.
 
 What kind of informations are collected ?
 =========================================
