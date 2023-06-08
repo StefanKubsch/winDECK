@@ -4,6 +4,8 @@ winDECK - Windows Digital Evidence Collection Kit
 
 ¯\_(ツ)_/¯                                         
 
+This project is deprecated. Today, there are better solution for getting triage data, e.g. EDR
+
 
 Quick Introduction
 ==================
